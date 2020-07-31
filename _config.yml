@@ -1,11 +1,11 @@
 # Site settings
-author: dauntless-panel-9117
-title: 
+author: William Wedderburn
+title: “Why did you decide to study Software Engineering?”
 header-img: img/home-bg.png
 email: wedderburn95@yahoo.com
-copyright_name: dauntless-panel-9117
+copyright_name: William Wedderburn
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Coding is the future
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  wedderburn95
